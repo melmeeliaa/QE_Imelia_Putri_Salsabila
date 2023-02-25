@@ -1,4 +1,5 @@
 # Praktikum Notion Sec 6
 ## _Linknya terdapat di bawah ya kak_
 
-https://docs.google.com/document/d/1sLivOzzxblkbKntR2zY7rSg-qaWz0Q11w-pgoz1-1Co/edit
+[https://docs.google.com/document/d/1sLivOzzxblkbKntR2zY7rSg-qaWz0Q11w-pgoz1-1Co/edit?usp=sharing]
+
