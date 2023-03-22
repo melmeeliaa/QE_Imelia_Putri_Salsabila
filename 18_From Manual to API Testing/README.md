@@ -9,6 +9,7 @@ Tujuan utama dari AT : efficiency karena AT sangat cocok untuk mengeksekusi test
 1.	Exploratory
 2.	Velocity
 3.	Bisa dilakukan pengujian usability
+
 Alasan menggunakan AT : 
 1.	Flexibility
 2.	Velocity
