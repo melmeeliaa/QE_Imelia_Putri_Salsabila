@@ -2,6 +2,7 @@
 ## Tuliskan 3 poin yang dipelajari dari materi From Manual to API Testing
 
 - Manual testing		: sebuah testing yang dilakukan secara manual. Tujuan utama dari manual testing adalah untuk exploratory (untuk mengeksplor atau mengobservasi semua fitur-fitur yang telah dikembangkan pada sebuah aplikasi). 
+
 Automation testing (AT) : sebuah pengujian atau testing yang dilakukan secara otomatis, caranya menggunakan automation tool. Contohnya ada Jmeter, selenium, catalon, dsb
 Tujuan utama dari AT : efficiency karena AT sangat cocok untuk mengeksekusi test case yang sangat banyak secara otomatis & AT bisa mengukur coverage untuk mengukur seberapa banyak fitur yang kita uji
 
