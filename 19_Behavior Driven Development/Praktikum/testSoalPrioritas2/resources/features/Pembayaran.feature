@@ -1,4 +1,4 @@
-Feature: pilihProduk
+Feature: Pembayaran
   As a user
   I want to choose a payment method
   So that I managed to pay for the product I bought
