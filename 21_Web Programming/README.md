@@ -14,8 +14,8 @@ Kegunaan HTML :
 - Tools yang dpt membantu proses development HTML : HTML/teks editors : berfungsi sbg tempat kita u/ mengedit code2 dr HTML. Toolnya : notepad, visual studio code, sublime, notepad ++, dan atom
 Dokumentasi HTML 
 <! DOCTYPE html> : mendefinisikan dokumen ini sebagai HTML 5
-<html> : elemen root dari halaman HTML
-<head> : berisi informasi meta tentang dokumen
+(<html>) : elemen root dari halaman HTML
+(<head>) : berisi informasi meta tentang dokumen
 <title> : menentukan judul untuk dokumen
 <body> : berisi konten halaman yang terlihat
 <div> : menandakan sekelompok elemen jd biasanya didlmnya tdpt bbrp elemen lain, menampilkan teks
