@@ -21,13 +21,13 @@ Kegunaan HTML :
 5. (<body>)           : berisi konten halaman yang terlihat
  Dan tag lainnya pada HTML
 6. (<div>)            : menandakan sekelompok elemen jd biasanya didlmnya tdpt bbrp elemen lain, menampilkan teks
-7. <h1> … <h6> (heading) : menampilkan sebuah teks dengan ukuran yg berbeda beda
-8. <p> (paragraf)     : menampilkan elemen yg berisikan kalimat/paragraf
-9. <strong> : membuat teks mjd lbh bold/tebal
-<em> : membuat teks mjd italic / miring
-<s> : membuat teks dg garis tercoret
-<u> : membuat teks dg garis bawah
-<br /> : baris baru
+7. (<h1> … <h6>) (heading) : menampilkan sebuah teks dengan ukuran yg berbeda beda
+8. (<p>) (paragraf)     : menampilkan elemen yg berisikan kalimat/paragraf
+9. (<strong>)         : membuat teks mjd lbh bold/tebal
+10. (<em>)            : membuat teks mjd italic / miring
+11. (<s>)             : membuat teks dg garis tercoret
+12. (<u>)             : membuat teks dg garis bawah
+13. (<br />)          : baris baru
 <a href=””></a> : link : menghasilkan sebuah komponen dmn komponen tsb ketika diklik dia akan membawa kita ke hlm tertentu, href : sbg atribut
 <a href=””
 Target=”_blank”></a> = menuju ke hlmn tertentu dg tab yg baru
