@@ -10,6 +10,7 @@ Kegunaan HTML :
 4.	Membuat form HTML
 5.	Membuat gambar dengan canvas
 6.	Mempublikasikan halaman website secara online
+
 - Tools yang dpt membantu proses development HTML : HTML/teks editors : berfungsi sbg tempat kita u/ mengedit code2 dr HTML. Toolnya : notepad, visual studio code, sublime, notepad ++, dan atom
 Dokumentasi HTML 
 <! DOCTYPE html> : mendefinisikan dokumen ini sebagai HTML 5
