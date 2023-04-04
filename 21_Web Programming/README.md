@@ -14,15 +14,16 @@ Kegunaan HTML :
 - Tools yang dpt membantu proses development HTML : HTML/teks editors : berfungsi sbg tempat kita u/ mengedit code2 dr HTML. Toolnya : notepad, visual studio code, sublime, notepad ++, dan atom
 
 - Dokumentasi HTML 
-(<! DOCTYPE html>) : mendefinisikan dokumen ini sebagai HTML 5
-(<html>)           : elemen root dari halaman HTML
-(<head>) : berisi informasi meta tentang dokumen
-(<title>) : menentukan judul untuk dokumen
-(<body>) : berisi konten halaman yang terlihat
-(<div>) : menandakan sekelompok elemen jd biasanya didlmnya tdpt bbrp elemen lain, menampilkan teks
-<h1> … <h6> (heading) : menampilkan sebuah teks dengan ukuran yg berbeda beda
-<p> (paragraf) : menampilkan elemen yg berisikan kalimat/paragraf
-<strong> : membuat teks mjd lbh bold/tebal
+1. (<! DOCTYPE html>) : mendefinisikan dokumen ini sebagai HTML 5
+2. (<html>)           : elemen root dari halaman HTML
+3. (<head>)           : berisi informasi meta tentang dokumen
+4. (<title>)          : menentukan judul untuk dokumen
+5. (<body>)           : berisi konten halaman yang terlihat
+ Dan tag lainnya pada HTML
+6. (<div>)            : menandakan sekelompok elemen jd biasanya didlmnya tdpt bbrp elemen lain, menampilkan teks
+7. <h1> … <h6> (heading) : menampilkan sebuah teks dengan ukuran yg berbeda beda
+8. <p> (paragraf)     : menampilkan elemen yg berisikan kalimat/paragraf
+9. <strong> : membuat teks mjd lbh bold/tebal
 <em> : membuat teks mjd italic / miring
 <s> : membuat teks dg garis tercoret
 <u> : membuat teks dg garis bawah
