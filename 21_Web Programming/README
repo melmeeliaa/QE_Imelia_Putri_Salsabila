@@ -49,3 +49,17 @@ Tag table HTML :
 4.	Dll sesuai kebutuhan website
 <fieldset></fieldset> : u/ membuat kelompok dr inputan berada dlm 1 kelompok tertentu, dan kita bisa memberikan <legend></legend> : u/ memberikan judul dr kelompok tsb
 <label for=””></label> : u/ melabeli kotak input
+
+CSS (Cascanding Style Sheet)
+Dapat menghias halaman web (color, size, font, dll) & dapat mengatur posisi pada halaman web (float, align, position, dll)
+3 cara menambahkan file CSS ke dalam HTML
+1.	External CSS
+Syntax ini disisipkan ke dalam tag <head> pada html. Ekstensi file CSS adalah .css
+2.	Internal CSS
+Syntax ini dapat digunakan di dalam satu file HTML. Didefinisikan di dalam elemem <style>
+3.	Inline CSS
+Syntax ini dapat digunakan u/ elemen tunggal pada HTML. Diprioritaskan untuk menerapkan style yang unik
+Penanda HTML ke dalam CSS, Dapat menggunakan selector ID dan class
+ID = (#)
+Class = (.)
+
