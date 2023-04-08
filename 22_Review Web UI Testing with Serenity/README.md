@@ -8,7 +8,7 @@
 3.	Map Story / Scenario dengan Java Code : Mapping disini berati melakukan mapping antara story yang dibuat dengan logic automation dengan menggunakan bahasa java. Menariknya di framework jbehave terdapat Dependency injection tersendiri. Sehingga pada framework jbehave tidak perlu melakukan pembuatan object yang biasa dilakukan di java.
 4.	Run Stories : Langkah Terakhir adalah menjalankan Story, Cara menjalankan storynya bisa menggunakan Junit ataupun Maven , dan karena bisa dijalankan melalui Junit , sebagian besar IDE sudah mensupport nya ( Termasuk Debugging Automation). Kita menggunakan IntellijIDEA menggunakan Intellij Idea sebagai standard IDE yang digunakan untuk melakukan build Automation dan Maven sebagai runnernya. Setelah di run maka akan muncul report standard dari jbehave
 5.	View Reports : dalam serenity report akan memberikan skenario mana yg lulus & tidak serta memberitahu durasi pengujian yg dilakukan, dan menampilkan hasil tangkapan layar saat dilakukan pengujian aplikasi
-Function untuk step di starter.page
+- Function untuk step di starter.page
 1.	Type : untuk mengetik atau inputkan
 2.	Click() : u/ mengklik
 3.	IsDisplayed() : u/ melihat no validated atau apakah lokator atau elemen ini ada
