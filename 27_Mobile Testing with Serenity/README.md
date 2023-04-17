@@ -1,10 +1,9 @@
 # Summary (27) Mobile Testing with Serenity
 ## Tuliskan poin yang dipelajari dari materi Mobile Testing with Serenity
 
-- Mobile testing adalah proses dmn aplikasi dikembangkan pd perangkat mobile diuji u/ kegunaan & konsistensinya. 
-Ada 2 macam testing yg hrs dilakukan u/ aplikasi pd perangkat mobile
-1.Testing hardware : prosessor, memori internal, ukuran layar, besarnya RAM, blutooth, Wifi, kemampuan kamera, dll
-2.Testing software : aplikasi mobile. Aplikasi mobile terbagi mnjadi 3 macam yaitu : aplikasi native, aplikasi hybrid, dan aplikasi mobile web. Ketiganya memiliki perbedaan dasar yg tentunya akan mempengaruhi proses pengujian
+- Mobile testing adalah proses dmn aplikasi dikembangkan pd perangkat mobile diuji u/ kegunaan & konsistensinya. Ada 2 macam testing yg hrs dilakukan u/ aplikasi pd perangkat mobile
+1. Testing hardware : prosessor, memori internal, ukuran layar, besarnya RAM, blutooth, Wifi, kemampuan kamera, dll
+2. Testing software : aplikasi mobile. Aplikasi mobile terbagi mnjadi 3 macam yaitu : aplikasi native, aplikasi hybrid, dan aplikasi mobile web. Ketiganya memiliki perbedaan dasar yg tentunya akan mempengaruhi proses pengujian
 Pengujian aplikasi mobile jauh lebih kompleks dibanding pengujian aplikasi atau web untuk dekstop karena:
 a.Perangkat mobile memiliki banyak macam ukuran layar konfigurasi hardware seperti keypad, virtual keypad (touch screen), trackball dan lain-lain.
 b.Bermacam-macam sistem operasi yang di pakai, seperti android, windows, blackberry, dan iOS
