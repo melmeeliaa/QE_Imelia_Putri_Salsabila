@@ -3,13 +3,13 @@
 
 - Mobile testing adalah proses dmn aplikasi dikembangkan pd perangkat mobile diuji u/ kegunaan & konsistensinya. 
 Ada 2 macam testing yg hrs dilakukan u/ aplikasi pd perangkat mobile
-1.	Testing hardware : prosessor, memori internal, ukuran layar, besarnya RAM, blutooth, Wifi, kemampuan kamera, dll
-2.	Testing software : aplikasi mobile. Aplikasi mobile terbagi mnjadi 3 macam yaitu : aplikasi native, aplikasi hybrid, dan aplikasi mobile web. Ketiganya memiliki perbedaan dasar yg tentunya akan mempengaruhi proses pengujian
+1.Testing hardware : prosessor, memori internal, ukuran layar, besarnya RAM, blutooth, Wifi, kemampuan kamera, dll
+2.Testing software : aplikasi mobile. Aplikasi mobile terbagi mnjadi 3 macam yaitu : aplikasi native, aplikasi hybrid, dan aplikasi mobile web. Ketiganya memiliki perbedaan dasar yg tentunya akan mempengaruhi proses pengujian
 Pengujian aplikasi mobile jauh lebih kompleks dibanding pengujian aplikasi atau web untuk dekstop karena:
-a.	Perangkat mobile memiliki banyak macam ukuran layar konfigurasi hardware seperti keypad, virtual keypad (touch screen), trackball dan lain-lain.
-b.	Bermacam-macam sistem operasi yang di pakai, seperti android, windows, blackberry, dan iOS
-c.	Bermacam-macam versi dari sistem operasi
-d.	Bermacam-macam jenis jaringan mobile, seperti CDMA atau GSM, berkemampuan EDGE, 3G, atau 4G.
+a.Perangkat mobile memiliki banyak macam ukuran layar konfigurasi hardware seperti keypad, virtual keypad (touch screen), trackball dan lain-lain.
+b.Bermacam-macam sistem operasi yang di pakai, seperti android, windows, blackberry, dan iOS
+c.Bermacam-macam versi dari sistem operasi
+d.Bermacam-macam jenis jaringan mobile, seperti CDMA atau GSM, berkemampuan EDGE, 3G, atau 4G.
 Untuk mengatasi semua masalah teknis di atas, ada beberapa macam testing yang selayaknya dilakukan pada aplikasi mobile.
 a.	Usability testing, untuk memastikan bahwa aplikasi mobile mudah digunakan dan memberikan user experience yang baik untuk penggunanya.
 b.	Compatibility testing, pengujian aplikasi dengan perangkat mobile yang berbeda, melalui browser, dengan ukuran layar yang berbeda serta versi OS sesuai dengan kebutuhan.
