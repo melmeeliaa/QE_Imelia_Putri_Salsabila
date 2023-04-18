@@ -9,3 +9,5 @@
 2.	URL (Base URL + path) : cara kita untuk melakukan request. URL ini memiliki kata kunci yang menunjukkan ke server apa yang kita coba lakukan 
 3.	Header : kumpulan field & value yg terkait dengan pemberian informasi tentang pesan ke penerima.
 4.	Body : parameter apa yg dikirimkan ke server. Ini menentukan informasi yg di update, dibuat, ataupun di hapus
+- HTTP method yang sering dipakai yakni get (mengambil informasi tentang resource yang sudah ditentukan oleh URL secara singkat, get digunakan untuk membaca data, get merupakan method yang aman, get hanya akses read only), put (mengirim data ke server, membuat ataupun memperbarui resource), post (mengirimkan data baru ke server, membuat data baru, request post mungkin mengirimkan bbrp data ke server untuk diproses), & delete (menghapus resource yg sudah ditentukan)
+- Biasanya di dalam API itu terdapat JSON (JavaScript Object Notation) : adalah sebuah format data yang digunakan u/ pertukaran & penyimpanan data. JSON merupakan bagian dari javascript. JSON bisa terbaca dr berbagai bahasa pemograman bisa C, C++, Java, JavaScript, phyton, dan masih byk lg
