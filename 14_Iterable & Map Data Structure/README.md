@@ -15,6 +15,11 @@ Iterator : class yg memanage iterasi dari sebuah iterable.
 8.	Blockingdeque
 9.	Transferqueue
 
+- Perbedaan arrayList & linkedlist :
+Pada arraylist seperti terlihat ada ruang kosong terisi data, sedangkan pada linked list bentuknya seperti gerbong kereta api, jadi pada bagian 1 sebuah elemen akan menyimpan nilai dari data yang disimpan. Selain nilai data, disini juga akan menyimpan alamat memori dari data yg berikutnya, maka disini akan terhubung antara elemen 1 dg yang lainnya
+Jika dilihat dr sisi time complexity, Dpt dilihat pada saat mengambil data, arraylist mendapatkan O(1) yg artinya konstan, pd linkedlist mdptkan O(n) artinya ktika mengambil elemen linkedlist mungkin memerlukan waktu yg lbh lama. Menghapus/ menambah data pd bagian awal, arraylist bisa mengalami waktu yg lbh lama dr linkedlist
+Persamaan keduanya adalah ketika Menghapus/ menambah data pd bagian tengah dan akhir arraylist & linkedlist memiliki time kompleksitas yg sama
+
 - Map merupakan struktur data yang ada di java yang digunakan untuk menyimpan banyak data didalamnya. Data-data yang tersimpan di dalam map diidentifikasi menggunakan key. dan setiap key akan memiliki datanya sndiri yg disebut value. Bentuk/implementasi map yg terdapat di java : 
 1. HashMap (implementasi dari map yang menggunakan algoritma struktur data HashTable) ,
 2. WeakHashMap (masih menggunakan hash table, tetapi bedanya keynya dapat dihilangkan jika sudah tidak digunakan, memanggil system.gc(), akan menyebabkan beberapa key yang tidak digunakan lagi datanya akan hilang dari map), 
