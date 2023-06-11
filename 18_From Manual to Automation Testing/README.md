@@ -1,5 +1,5 @@
 # Summary (18) From Manual to API Testing
-## Tuliskan 3 poin yang dipelajari dari materi From Manual to API Testing
+## Tuliskan 3 poin yang dipelajari dari materi From Manual to Automation Testing
 
 - Manual testing		: sebuah testing yang dilakukan secara manual. Tujuan utama dari manual testing adalah untuk exploratory (untuk mengeksplor atau mengobservasi semua fitur-fitur yang telah dikembangkan pada sebuah aplikasi). 
 
